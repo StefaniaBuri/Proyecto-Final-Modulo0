@@ -1,7 +1,7 @@
 
-var boton = document.querySelector("#boton");
-boton.style.background="blue";
-boton.style.padding = "10px";
+// var boton = document.querySelector("#boton");
+// boton.style.background="blue";
+// boton.style.padding = "10px";
 
 boton.addEventListener('click', function CalcularIMC(altura, peso){
    
